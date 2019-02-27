@@ -25,9 +25,9 @@
 * 敏捷的方法
     * Scrum
     * 极限编程(XP)
+    * 迭代会议
     * 站会􏰃􏰂􏰁􏰀
-􏰃􏰂􏰁􏰀    * 迭代会议
-    * reto
+    * Reto
     * CodeReview
     
 ### 四、Feedback
